@@ -1,0 +1,8 @@
+header{
+    width: auto;
+    height: 80px;
+    border: 2px solid red;
+}
+ul{
+    display: flex;
+}
